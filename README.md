@@ -24,4 +24,3 @@ module.exports = {
   mongoURI: 'YOUR_OWN_MONGO_URI',
   secretOrKey: 'YOUR_OWN_SECRET'
 };
->>>>>>> a9e0b9b7e2e4a21ab804930dc1afd9ae9cab3712
