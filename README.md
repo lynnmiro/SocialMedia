@@ -14,4 +14,12 @@ npm run server
 ### Run the React client only
 npm run client
 
-### Server runs on http://localhost:5000 and client on http://localhost:3000
+###### Server runs on http://localhost:5000 and client on http://localhost:3000
+
+######You will need to create a keys in the server config folder with
+
+
+module.exports = {
+  mongoURI: 'YOUR_OWN_MONGO_URI',
+  secretOrKey: 'YOUR_OWN_SECRET'
+};
